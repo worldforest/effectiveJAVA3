@@ -8,6 +8,8 @@ public class finalfield {
 	private finalfield() {
 		
 	}
+	
+	public static finalfield getInstance() { return INSTATNCE; }
 	public void leaveTheBuilding(){
 		
 	}
